@@ -1,0 +1,14 @@
+{
+   "list": [
+      {
+         "name":"Whispered and Lombard Neural Speech Synthesis",
+         "url":"https://machinelearning.apple.com/research/lombard-neural-speech-synthesis",
+         "desc":"In this paper, we present and compare various approaches for generating different speaking styles, namely, normal, Lombard, and whisper speech, using only limited data."
+      },
+      {
+         "name":"An Empirical Study of CSS Code Smells in Web Frameworks",
+         "url":"https://digitalcommons.calpoly.edu/theses/1842/",
+         "desc":"In this thesis, we investigate the prevalence of CSS code smells in websites built with different web frameworks and attempt to recognize a pattern of CSS behavior in these frameworks. "
+      }
+   ]
+}

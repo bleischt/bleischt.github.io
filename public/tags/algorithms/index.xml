@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Algorithms on Tobias Bleisch - Software Engineer</title>
+    <link>/tags/algorithms/</link>
+    <description>Recent content in Algorithms on Tobias Bleisch - Software Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Sep 2021 10:28:01 +0000</lastBuildDate><atom:link href="/tags/algorithms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post!</title>
+      <link>/posts/2021-09-06-first-post/</link>
+      <pubDate>Mon, 06 Sep 2021 10:28:01 +0000</pubDate>
+      
+      <guid>/posts/2021-09-06-first-post/</guid>
+      <description>Hi!
+Welcome to my blog&amp;rsquo;s first post 😇
+I have no idea what I&amp;rsquo;m going to blog about&amp;hellip; might be programming, might be German stuff, or might just be random thoughts about life. Maybe even a combination all three!
+//todo - add more interesting first post stuff ;-)</description>
+    </item>
+    
+  </channel>
+</rss>

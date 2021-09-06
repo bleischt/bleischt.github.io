@@ -55,11 +55,12 @@ weight = 4
   # Home page settings
   description = "Hi! My name is Toby and I'm a software engineer at Apple. This website has been on my \"to-do\" list since 2015, and I finally have a v0 up and running! My interests outside of work include drinking milk tea, predicting events in movies, and German language."
   mainSection = "posts" # your main section
+  mainSectionTitle = "Blog"
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
-  tagsOverview = true # show tags overview by default.
+  tagsOverview = false # show tags overview by default.
   showProjectsList = true # show projects list by default (if projects data file exists).
-  projectsUrl = "https://github.com/gohugoio" # title link for projects list
+  projectsUrl = "https://github.com/bleischt" # title link for projects list
 
   # https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
   dateFormat = "2006-01-02" # default
@@ -69,7 +70,7 @@ weight = 4
   showReadTime = true # default
 
   [params.comments]
-    enabled = true # default
+    enabled = false # default
     engine = "cactus_comments" # only disqus, utterances, and cactus_comments is supported
     [params.comments.utterances]
       repo = "<github_username>/<github_reponame>"
