@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://bleischt.github.io"
 languageCode = "en-us"
 title = "Tobias Bleisch - Software Engineer"
 theme = "hugo-theme-cactus"
@@ -53,7 +53,7 @@ weight = 4
   showAllPostsArchive = false # default
 
   # Home page settings
-  description = "Hi! My name is Toby and I'm a software engineer at Apple. This website has been on my \"to-do\" list since 2015, and I finally have a v0 up and running! My interests outside of work include drinking milk tea, predicting events in movies, and German language."
+  description = "Hi! My name is Toby and I'm a software engineer at Apple. This website has been on my \"to-do\" list since 2015, and I finally have a v0 up and running! My interests outside of work include drinking milk tea, predicting movie endings, and German language."
   mainSection = "posts" # your main section
   mainSectionTitle = "Blog"
   showAllPostsOnHomePage = false # default
